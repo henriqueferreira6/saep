@@ -1,0 +1,33 @@
+body{
+    background-color: #468bda !important;
+    padding-top: 4vw;
+}
+
+.title{
+    font-size: 4vw;
+    margin-bottom: 3vw;
+    text-align: center;
+    font-family: 'alta', sans-serif;                                               
+}
+
+.title2{
+    font-size: 4vw;
+    margin-bottom: 3vw;
+    text-align: center;
+    font-family: 'alta', sans-serif;
+}
+
+.form-control{
+    width: 40% !important;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.subtitle{
+    font-family: 'alta', sans-serif 
+}
+
+.btn{
+    background-color: #000000 !important;
+    border-color: transparent !important;
+}
